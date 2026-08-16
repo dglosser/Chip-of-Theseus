@@ -21,7 +21,7 @@ The Article proposes instruments that operate on the answerable questions instea
 
 ## Read the paper
 
-[Full preprint (PDF)](./chip-of-theseus.pdf)
+[Full preprint (PDF)](./Chip-of-Theseus.pdf)
 
 Also posted to SSRN, link forthcoming.
 
