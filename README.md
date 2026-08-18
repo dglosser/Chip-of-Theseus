@@ -23,7 +23,7 @@ The Article proposes instruments that operate on the answerable questions instea
 
 [Full preprint (PDF)](./Chip-of-Theseus.pdf)
 
-Also posted to SSRN, link forthcoming.
+Also posted to SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7279242 
 
 ---
 
